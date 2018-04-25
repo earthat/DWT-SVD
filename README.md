@@ -6,6 +6,10 @@ This code investigates the development of digital audio watermarking in addressi
 
 Improvements were investigated using DWT-SVD and DWT-SVD-BFO algorithms. A comparison of these two algorithms for different watermark images on two types of audio input signal is presented here. The whole thesis work is divided into five main chapters with 4th 5th chapter describing proposed algorithm and results with discussions.
 
+# Report
+
+The documentation for this reserach work is available at http://free-thesis.com/product/audio-watermarking-by-dwt-svd-bfo/
+
 # Results
 
 ![watermarked audio signal](https://user-images.githubusercontent.com/11607018/39228564-6457e942-487c-11e8-96d6-a0804214e408.png)
