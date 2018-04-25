@@ -9,5 +9,7 @@ Improvements were investigated using DWT-SVD and DWT-SVD-BFO algorithms. A compa
 # Results
 
 ![watermarked audio signal](https://user-images.githubusercontent.com/11607018/39228564-6457e942-487c-11e8-96d6-a0804214e408.png)
+
 ![embedding message in audio signal](https://user-images.githubusercontent.com/11607018/39228565-648f60f2-487c-11e8-8fe5-14bf324cf1ce.png)
+
 ![evaluation of audio watermarking](https://user-images.githubusercontent.com/11607018/39228566-64c56d46-487c-11e8-99c6-d7dfdc4a876f.png)
