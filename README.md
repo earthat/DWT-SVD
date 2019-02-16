@@ -8,7 +8,7 @@ Improvements were investigated using DWT-SVD and DWT-SVD-BFO algorithms. A compa
 
 # Report
 
-The documentation for this reserach work is available at http://free-thesis.com/product/audio-watermarking-by-dwt-svd-bfo/
+The documentation for this reserach work is available at https://free-thesis.com/product/audio-watermarking-by-dwt-svd-bfo/
 
 # Results
 
